@@ -1,0 +1,22 @@
+Factory Conveyor Sorting System Architecture
+
+Inputs (Sensors)
+----------------
+S1 → Product Detection Sensor
+S2 → Inspection Sensor
+
+Controller
+----------
+PLC Controller
+
+Outputs (Actuators)
+-------------------
+M1 → Conveyor Motor
+A1 → Sorting Actuator
+
+Control Flow
+------------
+Product detected → Conveyor motor runs
+Inspection sensor checks product
+If product OK → continue conveyor
+If product defective → actuator pushes product off conveyor
