@@ -45,3 +45,21 @@ A1 → Sorting Actuator
 ---
 
 ## Repository Structure
+
+
+---
+
+## Technologies Used
+
+PLC Automation Concepts  
+Industrial Sensor Systems  
+Python Simulation  
+Automation System Architecture Design
+
+---
+
+## Applications
+
+Industrial manufacturing systems  
+Automated product sorting lines  
+Factory automation training simulations
